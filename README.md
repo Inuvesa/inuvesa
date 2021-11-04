@@ -6,9 +6,9 @@
     🔥 Software engineers with solid object oriented programming for creating cool applications 🔥 <br>
     :sparkles: Favorite Tech: JavaScript, React, Kotlin, Dart, Flutter. <br>
     :notebook: I’m currently learning software testing  <br>
-    :email:	gilangramadhannugraha@gmail.com <br>
+    :email:	inuvesa@gmail.com <br>
     :art: Portfolio: https://ggramadhan.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/gilang-ramadhan-nugraha <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/ggramadhan <br>
   </samp>
 </p>
 
