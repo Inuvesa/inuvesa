@@ -8,7 +8,7 @@
     :notebook: I’m currently learning software testing  <br>
     :email:	inuvesa@gmail.com <br>
     :art: Portfolio: https://ggramadhan.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/ggramadhan <br>
+    :briefcase: LinkedIn: https://linkedin.com/in/ggramadhann <br>
   </samp>
 </p>
 
